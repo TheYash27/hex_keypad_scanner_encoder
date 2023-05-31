@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Hex_Keypad_Scanner_Encoder_Test_Bench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Hex_Keypad_Scanner_Encoder_Test_Bench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="230"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="28" />
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/encout" type="array">
+      <obj_property name="ElementShortName">encout[3:0]</obj_property>
+      <obj_property name="ObjectShortName">encout[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/valrowsel" type="logic">
+      <obj_property name="ElementShortName">valrowsel</obj_property>
+      <obj_property name="ObjectShortName">valrowsel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/colsel" type="array">
+      <obj_property name="ElementShortName">colsel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">colsel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/row" type="array">
+      <obj_property name="ElementShortName">row[3:0]</obj_property>
+      <obj_property name="ObjectShortName">row[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key" type="array">
+      <obj_property name="ElementShortName">key[15:0]</obj_property>
+      <obj_property name="ObjectShortName">key[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/pressed" type="array">
+      <obj_property name="ElementShortName">pressed[39:0]</obj_property>
+      <obj_property name="ObjectShortName">pressed[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/j" type="array">
+      <obj_property name="ElementShortName">j[31:0]</obj_property>
+      <obj_property name="ObjectShortName">j[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/k" type="array">
+      <obj_property name="ElementShortName">k[31:0]</obj_property>
+      <obj_property name="ObjectShortName">k[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/rowsel" type="logic">
+      <obj_property name="ElementShortName">rowsel</obj_property>
+      <obj_property name="ObjectShortName">rowsel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_0" type="array">
+      <obj_property name="ElementShortName">key_0[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_0[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_1" type="array">
+      <obj_property name="ElementShortName">key_1[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_1[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_2" type="array">
+      <obj_property name="ElementShortName">key_2[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_2[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_3" type="array">
+      <obj_property name="ElementShortName">key_3[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_3[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_4" type="array">
+      <obj_property name="ElementShortName">key_4[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_4[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_5" type="array">
+      <obj_property name="ElementShortName">key_5[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_5[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_6" type="array">
+      <obj_property name="ElementShortName">key_6[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_6[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_7" type="array">
+      <obj_property name="ElementShortName">key_7[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_7[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_8" type="array">
+      <obj_property name="ElementShortName">key_8[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_8[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_9" type="array">
+      <obj_property name="ElementShortName">key_9[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_9[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_A" type="array">
+      <obj_property name="ElementShortName">key_A[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_A[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_B" type="array">
+      <obj_property name="ElementShortName">key_B[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_B[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_C" type="array">
+      <obj_property name="ElementShortName">key_C[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_C[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_D" type="array">
+      <obj_property name="ElementShortName">key_D[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_D[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_E" type="array">
+      <obj_property name="ElementShortName">key_E[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_E[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/key_F" type="array">
+      <obj_property name="ElementShortName">key_F[39:0]</obj_property>
+      <obj_property name="ObjectShortName">key_F[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Hex_Keypad_Scanner_Encoder_Test_Bench/None" type="array">
+      <obj_property name="ElementShortName">None[31:0]</obj_property>
+      <obj_property name="ObjectShortName">None[31:0]</obj_property>
+   </wvobject>
+</wave_config>
